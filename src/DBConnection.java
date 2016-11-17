@@ -7,6 +7,8 @@ public class DBConnection {
 	   // Zugangsdaten für DB anlegen
 	   static final String JDBC_DRIVER = "com.mysql.jdbc.Driver";  
 	   static final String DB_URL = "";
+	   
+	   
 	   static final String USER = "";
 	   static final String PASS = "";
 	   
